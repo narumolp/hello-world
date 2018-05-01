@@ -1,5 +1,1 @@
-# hello-world
-This is a test repo
-I drink coffee in the morning and tea in the afternoon. Chamomile tea is good for evening. 
-test1
-testonbranch3
+Counting sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (kind of hashing). Then doing some arithmetic to calculate the position of each object in the output sequence.
